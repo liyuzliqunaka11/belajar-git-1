@@ -3,3 +3,5 @@ selasa : SIM (Sistem Informasi Manajemen)
 
 kamis : GNS3
 jumat : Triger DB
+sabtu : liyuz ngegame
+minggu : liyuz badminton
