@@ -1,4 +1,5 @@
-senin : Bootstrap, GIT
+senin : GIT
 selasa : SIM (Sistem Informasi Manajemen)
-rabu : kosong
+
 kamis : GNS3
+jumat : Triger DB
